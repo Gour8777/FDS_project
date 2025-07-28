@@ -5,9 +5,6 @@ This repository contains the project work for the **Foundations of Data Science 
 ## 📂 Contents
 
 - `FDS_Project.ipynb`: Main Jupyter notebook for the project
-- `data/`: Folder containing datasets (if any)
-- `images/`: Visualizations and graphs generated
-- `README.md`: Project overview and instructions
 
 ## 🚀 Project Overview
 
